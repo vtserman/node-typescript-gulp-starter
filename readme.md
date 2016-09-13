@@ -7,9 +7,11 @@
 
 **BEFORE YOU INSTALL:** please read the [prerequisites](#prerequisites)
 ```bash
-# install Gulp
-npm install gulp -g
-# install the project's dependencies
+# Install Typings CLI utility.
+npm install typings --global
+# Install Gulp
+npm install gulp --global
+# Install the project's dependencies
 npm install
 ```
 #### Development workflow
